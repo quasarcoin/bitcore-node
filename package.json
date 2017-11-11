@@ -9,7 +9,8 @@
     "bugs": {
         "url": "https://github.com/quasarcoin/bitcore-node/issues"
     },
-    "contributors": [{
+    "contributors": [
+        {
             "name": "Christopher Jeffrey"
         },
         {
@@ -63,7 +64,7 @@
     },
     "devDependencies": {
         "benchmark": "1.0.0",
-        "bitcore-p2p": "git://github.com/quasarcoin/bitcore-p2p.git#bitchk",
+        "bitcore-p2p": "git://github.com/quasarcoin/bitcore-p2p.git",
         "chai": "^3.5.0",
         "coveralls": "^2.11.9",
         "istanbul": "^0.4.3",
